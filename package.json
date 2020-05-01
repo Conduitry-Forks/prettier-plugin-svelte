@@ -6,7 +6,6 @@
     "scripts": {
         "build": "rollup -c",
         "test": "ava",
-        "prepare": "npm run build",
         "prepublishOnly": "npm test"
     },
     "repository": {
